@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01AplikacjaOkienkowaWstep", "P01AplikacjaOkienkowaWstep\P01AplikacjaOkienkowaWstep.csproj", "{A964152E-9E42-4F03-BC97-3CBF3E7B3F62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02PrzykladKalkulator", "P02PrzykladKalkulator\P02PrzykladKalkulator.csproj", "{216CE214-0EC4-4AF7-A16C-CD6ACE2696F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A964152E-9E42-4F03-BC97-3CBF3E7B3F62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A964152E-9E42-4F03-BC97-3CBF3E7B3F62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A964152E-9E42-4F03-BC97-3CBF3E7B3F62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A964152E-9E42-4F03-BC97-3CBF3E7B3F62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{216CE214-0EC4-4AF7-A16C-CD6ACE2696F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{216CE214-0EC4-4AF7-A16C-CD6ACE2696F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{216CE214-0EC4-4AF7-A16C-CD6ACE2696F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{216CE214-0EC4-4AF7-A16C-CD6ACE2696F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7647893D-86C1-4FC3-8779-0F9E6C97826F}
+	EndGlobalSection
+EndGlobal
